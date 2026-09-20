@@ -4,7 +4,7 @@ env/
 ENV/
 
 # Data folder (collected landmark files)
-Data/
+
 
 # Python cache
 __pycache__/
@@ -22,7 +22,7 @@ __pycache__/
 Thumbs.db
 
 # Numpy and other binary files
-*.npy
+
 *.pkl
 *.h5
 
